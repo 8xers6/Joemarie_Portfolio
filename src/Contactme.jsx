@@ -1,9 +1,9 @@
 import React from 'react';
 
-const ContactUsSection = () => {
+function ContactUsSection() {
     return (
       <div className="container mx-auto mt-8 " id="Contactme" >
-        <div className="max-w-md mx-auto bg-white shadow-md rounded-lg px-8 py-6">
+        <div className="max-w-md mx-auto bg-white shadow-md rounded-lg px-8 py-7">
           <h2 className="text-2xl font-bold mb-4">Contact Me!</h2>
           <p className="text-gray-700 mb-4">Feel free to reach out to me through the following Contacts:</p>
           <div className="mb-4">
