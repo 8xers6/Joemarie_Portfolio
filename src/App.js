@@ -3,7 +3,7 @@ import Navbar from './Navbar';
 import Aboutme from './Aboutme';
 import ListofProgramming from './ListofProgramming';
 import Somethingaboutme from './Somethingaboutme';
-import ContactUsSection from './Contactme';
+import Contact from './Contactme';
 import Guessinggames from './Guessinggames';
 import Footer from './Footer';
 function App() {
@@ -16,7 +16,7 @@ function App() {
       <Aboutme/>
       <Somethingaboutme/>
       <ListofProgramming/>
-      <ContactUsSection/>
+      <Contact/>
       <Guessinggames/>
       <Footer/>
 
