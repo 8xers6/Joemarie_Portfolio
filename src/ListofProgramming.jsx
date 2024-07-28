@@ -33,7 +33,7 @@ function ListofProgramming() {
             image: 'https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000',
             alt: 'Image 6'
         },
-        // Add more cards as needed
+        
     ];
 
     return (
