@@ -33,7 +33,7 @@ function Guessinggames() {
   };
 
   return (
-    <div className="flex flex-col items-center justify-center min-h-10 bg-white pt-5">
+    <div className="flex flex-col items-center justify-center min-h-10 bg-white pt-5 pb-5">
       <h1 className="text-4xl font-bold text-center mb-4">Can you beat me at Janken?</h1>
       <h2 className="text-xl text-center mb-4">[Rock, Paper, Scissors]</h2>
       <form onSubmit={handleSubmit} className="flex flex-col items-center">
